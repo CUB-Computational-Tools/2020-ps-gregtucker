@@ -35,31 +35,46 @@ Before you start designing your problem set for any given week, please complete 
 1. Optional: ask a peer reviewer to take another look before merging the pull request.
 1. Once ready, merge the pull request into the master branch. Double check that the binder link for the final version works as well.
 
+# Week 0
+
+#### Binder link for peer reviewers
+
+> Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week1` branch exists.
+
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek1%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+
+#### Binder link for final version
+
+> Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
+
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+
 # Week 1
 
 #### Binder link for peer reviewers
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week1` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek1%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek1%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek1%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek1%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek1%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek1%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek1%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek1%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+
 
 # Week 2
 
@@ -67,25 +82,25 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week2` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek2%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek2%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek2%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek2%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek2%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek2%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek2%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek2%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
 
 # Week 3
 
@@ -93,25 +108,25 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week3` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek3%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek3%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek3%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek3%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek3%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek3%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek3%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek3%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
 
 # Week 4
 
@@ -119,25 +134,25 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week4` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek4%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek4%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek4%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek4%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek4%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek4%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek4%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek4%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
 
 # Week 5
 
@@ -145,25 +160,25 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week5` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek5%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek5%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek5%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek5%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek5%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek5%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek5%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek5%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
 
 # Week 6
 
@@ -171,22 +186,22 @@ Before you start designing your problem set for any given week, please complete 
 
 > Only keep the one link you want your peer reviewers to use. Note that these will only work once the `week6` branch exists.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek6%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek6%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek6%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek6%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek6%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek6%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20draft-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dweek6%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dweek6%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20draft-Py+RStudio-purple.svg'/></a>
 
 #### Binder link for final version
 
 > Instructions: Only keep the one link you want your instructor(s) to use. This uses the `master` branch so will only have your newest notebook once you have merged your pull request for the week.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-gregtucker/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-gregtucker%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
